@@ -1,7 +1,9 @@
+//Require Node
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
+//Mongoose Schema
 const transactionSchema = new Schema(
   {
     name: {
@@ -20,6 +22,7 @@ const transactionSchema = new Schema(
   }
 );
 
+//Create the model
 const Transaction = mongoose.model("Transaction", transactionSchema);
 
 module.exports = Transaction;
