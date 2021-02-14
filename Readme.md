@@ -32,8 +32,9 @@
   
   See it in action:
   https://robertsicher.github.io/budget-tracker/
+  https://gr-budget-tracker.herokuapp.com/
   
-  ![An image of it in action ](/app-image.png)
+  ![An image of it in action ](/app-image.PNG)
   
   
   ## Author
