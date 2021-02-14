@@ -33,7 +33,7 @@
   See it in action:
   https://robertsicher.github.io/budget-tracker/
   
-  ![An image of it in action ](app-image)
+  ![An image of it in action ](/app-image.png)
   
   
   ## Author
